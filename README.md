@@ -12,7 +12,6 @@ NodePad is a simple note-taking app developed using Flutter.
 
 ## Screenshots
 
-<video src="Screenrecorder-2023-07-10-06-22-52-242(0).mp4" controls title="LaunchScreen">LaunchScreen</video>
 ![Screenshot](Screenshot_2023-07-10-06-30-45-442_com.example.notepad_flutter_project_.jpg)
 ![Alt text](Screenshot_2023-07-10-06-31-08-004_com.example.notepad_flutter_project_.jpg)
 
